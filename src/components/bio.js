@@ -38,7 +38,7 @@ function Bio() {
               }}
             />
             <p>
-              Wy <strong>{author}</strong> who lives and works in Los Angeles!! building useful things.
+              Wooo <strong>{author}</strong> who lives and works in Los Angeles!! building useful things.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 You should follow him on Twitter
